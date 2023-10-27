@@ -1,3 +1,5 @@
 # Запуск: 
-```pip install -r requirements.txt
-python -m pytest tests```
+```
+pip install -r requirements.txt
+python -m pytest tests
+```
